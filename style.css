@@ -1,0 +1,38 @@
+.done {
+  text-decoration: line-through;
+}
+
+body {
+  background-color: rgba(78, 88, 91, 25%);
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 4rem;
+  color: #0C1E25;
+}
+
+.container {
+  display: flex;
+  justify-content: center
+  ;
+}
+
+.p-container {
+  display: flex;
+
+}
+
+.description {
+  font-family: arial;
+  font-size: 1.5rem;
+  color: #0C1E25;
+}
+
+li {
+  width: 250px;
+  height: 30px;
+  font-family: arial;
+  color: #0C1E25;
+  font-size: 15px;
+}
