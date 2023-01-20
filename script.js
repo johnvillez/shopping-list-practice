@@ -17,7 +17,7 @@ function addItem() {
 	ul.appendChild(li);
 	input.value = "";
 
-	Creating delete button and append to li
+	// Creating delete button and append to li
 	const deleteBtn = document.createElement("button");
 	deleteBtn.classList.add('delete-item');
 	deleteBtn.append(document.createTextNode('Delete'));
